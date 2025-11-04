@@ -32,3 +32,6 @@ Os experimentos utilizam o conjunto Breast Cancer Wisconsin (Diagnostic) (WDBC),
 
 ✉️ Autora: Fernanda Ester Resende Moraes
 Este projeto reforça a importância do uso de técnicas de aprendizado de máquina na área médica, contribuindo para diagnósticos mais precisos e acessíveis.
+
+Referências
+Wolberg, W. H., et al. "Breast Cancer Wisconsin (Diagnostic) Data Set." UCI Machine Learning Repository.
