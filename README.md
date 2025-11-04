@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 Alternativamente, é possível instalar manualmente:
 ```bash
-pip install ucimlrepo scikit-learn==1.5.2 pandas==2.2.2 matplotlib==3.9.2 seaborn==0.13.2 joblib
+pip install ucimlrepo scikit-learn==1.5.2 pandas==2.2.2 matplotlib==3.9.2 joblib
 ```
 
 🧠 Execução
