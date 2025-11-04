@@ -1,5 +1,7 @@
-ucimlrepo
+ucimlrepo==0.0.7
 scikit-learn==1.5.2
 pandas==2.2.2
 matplotlib==3.9.2
-joblib
+joblib==1.4.2
+numpy==1.26.4
+seaborn==0.13.2
