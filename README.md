@@ -8,6 +8,7 @@ Aplicação de Algoritmos de machine learning em Dados de Punção Aspirativa pa
 - `modelos/` — Pipelines salvos em formato `.pkl` para reuso.
 
 📚 Dependências
+
 Para instalar todas as bibliotecas necessárias, execute:
 ```bash
 pip install -r requirements.txt 
@@ -25,7 +26,7 @@ Treinamento de múltiplos modelos (LogReg, SVM, RF, KNN, NB, MLP)
 Avaliação e gráficos de desempenho
 Exportação do modelo final
 
-#📎 Dados
+📎 Dados
 Os experimentos utilizam o conjunto Breast Cancer Wisconsin (Diagnostic) (WDBC), obtido do UCI Machine Learning Repository (ID 17). As 30 features são derivadas de imagens de punção aspirativa por agulha fina (FNA) e incluem estatísticas de mean, SE e worst de medidas como raio, textura, perímetro, área, concavidade etc. Fonte: UCI WDBC.
 
 
