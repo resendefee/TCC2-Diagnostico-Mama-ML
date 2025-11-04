@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Resultados e artefatos
+resultados_tcc/
+modelos/
+*.pkl
+
+# Colab / Jupyter
+.ipynb_checkpoints/
